@@ -1,9 +1,8 @@
+# Imperial Health Analytics - Painel Preditivo de Indicadores Epidemiológicos
 
 <p align="center">
-  <img src="assets/images/logo.png" alt="Logotipo Imperial Health Analytics" width="300"/>
+  <img src="assets/images/logo.png" alt="Logotipo Imperial Health Analytics" width="400"/>
 </p>
-
-# Imperial Health Analytics - Painel Preditivo de Indicadores Epidemiológicos
 
 > **Iniciativa:** FMU Tech Inovação · 1ª Edição 2026.2 (ODS 3 - Saúde e Bem-Estar)  
 > **Repositório:** [github.com/gustavolimasilva222-tech/FMU](https://github.com/gustavolimasilva222-tech/FMU)
