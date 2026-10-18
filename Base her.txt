@@ -1,0 +1,501 @@
+Id,Nome,Data_Nascimento,Remedio_1,Remedio_2,Data_Inicio,Data_Fim,Glicemia_Inicial,Glicemia_Final,Dieta
+P0001,Lucas Rocha Teixeira,01/12/1985,NÃ£o,Sim,30/07/2023,20/01/2024,781,14,NÃ£o
+P0002,Leandro Ramos Mendes,11/07/1961,Sim,NÃ£o,15/06/2023,09/10/2023,174,127,Sim
+P0003,Yasmin Ramos Rocha,10/11/1958,Sim,NÃ£o,13/12/2024,12/08/2025,212,-79,NÃ£o
+P0004,  Carlos  Dias Ferreira ,04/01/1990,NÃ£o,Sim,12/08/2024,02/06/2025,135,"108,5",Sim
+p0005,AntÃ´nio Santos Andrade,12/08/1972,Sim,NÃ£o,05/07/2023,25/03/2024,5.7,82,NÃ£o
+P0006,VinÃ­cius Teixeira Ramos,20/09/1975,NÃ£o,Sim,13.06.2024,15/03/2025,211,190 mg/dL,NÃ£o
+P0007,Maria Almeida Lima,20/05/1944,NÃ£o,Sim,07/12/2025,29/03/2026,152,128,NÃ£o
+P0008,Camila Pereira Freitas,29/06/2000,Yes,NÃ£o,29-05-2024,10/05/2025,214,168,Sim
+P0009,Vera Teixeira Cardoso,23/01/1976,1,NÃ£o,25/08/2024,10/03/2025,212,149,Sim
+P0010,Larissa AraÃºjo Ramos,16/04/1972,NÃ£o,Sim,16/06/2024,20/04/2025,174,146,Sim
+P0011,VinÃ­cius Oliveira Vieira,29/05/1968,Sim,NÃ£o,21/07/23,30/04/2024,179,163,NÃ£o
+P0012,Thiago Ribeiro Machado,26 de dezembro de 1982,NÃ£o,Sim,29/06/2024,10/05/2025,40,134,Sim
+P0013,Fenranda Mendes Silva,08/04/1948,s,NÃ£o,20/06/2023,26/06/2024,170,128,NÃ£o
+P0014,NatÃ¡lia Cavalcante Fernandes,21/12/1999,nao,Sim,01/01/2025,20/05/2025,146,117,1
+P0015,Rodrigo Lima Cavalcante,31/12/1959,Sim,NÃ£o,26-09-2023,26.09.2024,155,127,NÃ£o
+P-0016,Walter Costa Lima,29/07/1992,Sim,NÃ£o,23 de abril de 2025,07/01/2026,8.2,120,NÃƒO
+P0017,Ana Alves Moreira,03/08/1946,Sim,NÃƒO,11/12/2024,05/01/2026,170,14,Yes
+P0018,  Daniela  Cardoso Rocha ,03/04/2001,Yes,NÃ£o,29/10/2024,28/02/2025,122,73,Sim
+P0019,JULIANA GOMES ARAÃšJO,27/07/1958,Sim,nao,19/11/2024,21/05/2024,164,139,NÃ£o
+P0020,Sandra Oliveira Martins,24/01/1998,NÃ£o,Sim,03/04/2023,28/04/2024,1012,177,NÃ£o
+P0021,NtaÃ¡lia Martins Cardoso,18/11/2000,NÃ£o,Sim,22/09/2023,16/10/2024,179,169,NÃ£o
+P0022,Mariana Costa Ribeiro,26/12/1974,Sim,NÃ£o,27/12/2025,25/09/2026,153,121,N
+P0023,Beatriz Soares Freitas,22/08/84,NÃƒO,Sim,01/05/2025,24/11/2025,151,101,Sim
+P0024,Lucas AraÃºjo AraÃºjo,25/07/1964,NÃ£o,Sim,14/03/2024,08/09/2024,30,156,Sim
+P0025,Aline Marques Cavalcante,22/02/2000,Sim,NÃ£o,25/02/2023,23/10/2023,138,98,NÃ£o
+p0026,Helena Carvalho Pereira,10/09/1995,N,Sim,15/03/2024,01/03/2025,164,111,Sim
+P0027,Pedro Soares Alves,13/02/1979,Sim,NÃ£o,04/05/2023,01/01/2024,189,148,NÃ£o
+P0028,"Fernandes, Daniela Rocha",05-10-1992,NÃ£o,Sim,19/08/2024,28/03/2025,169,127,Sim
+P0029,Ricardo Soares Marques,05/20/1941,Sim,NÃ£o,26/04/2024,06/07/2024,11.5,154,Sim
+P0030,"Freitas, Bruno Rocha",24/06/1994,NÃ£o,Sim,19/03/2023,10/12/2023,178,127,Sim
+P0031,yasmin pereira andrade,20/12/1984,NÃ£o,Sim,30/05/2024,13/02/2025,174,137,Sim
+P0032,Henrique Machado Santos,31/03/1965,NÃ£o,Sim,16/08/2024,22/04/2024,129,82,Sim
+P0033,Maria Cavalcante Dias,17/09/57,NÃ£o,Yes,19/08/2023,09/01/2024,183,157,0
+P34,Bruno Barbosa Santos,1978-02-08,NÃ£o,Sim,30/12/2024,28/09/2025,172,-103,Sim
+0035,Camila Lima Ribeiro,15/09/1988,Sim,NÃ£o,23/03/2025,29/09/2025,170,140,NÃ£o
+P0036,Helena Cardoso Marques,01/09/1963,N,Sim,11/10/2023,25/10/2024,193,182,NÃ£o
+P0037,Vera Teixeira Soares,26/07/1970,NÃ£o,Sim,12/10/2024,26/04/2024,266,242,NÃ£o
+P0038,ClÃ¡udia Souza Almeida,2000-12-05,NÃ£o,SIM,05/11/2023,2024-07-26,130,12,NÃ£o
+P0039,Isabela Fernandes Dias,11/01/1958,Sim,NÃ£o,29/07/2025,19/08/2026,198,43,Sim
+P0040,Yasmin Barbosa Martins,14/03/1954,NÃ£o,Sim,11/11/2023,14/09/2024,"231,1",215,NÃ£o
+P0041,Felipe Marques Oliveira,03/05/1997,Sim,NÃ£o,04/09/2024,12/05/2025,164,120,NÃƒO
+P0042,Pedro Santos Cavalcante,24-06-1959,NÃ£o,Sim,20/09/2024,08-09-2025,34,87,Yes
+P0043,Felipe Costa Teixeira,31/05/1949,Sim,NÃ£o,08/03/2025,24/10/2025,148,105,NÃ£o
+P0044,walter martins costa,12/04/1966,Sim,NÃ£o,07/08/2024,06/04/2025,100,70,Sim
+P0045,SÃ©rgio Silva Cardoso,01/12/1977,Sim,NÃ£o,16/12/2023,04/11/2024,162,1279,Sim
+ P0046 ,Maria Pereira Teixeira,26/11/1999,NÃ£o,Sim,05/01/2023,13/09/2023,155,-107,Sim
+P0047,Nathalia Lopes Lima,14/07/1949,NÃ£o,Sim,19/09/2025,11/01/2026,164,152,NÃ£o
+P0048,Orlando Barbosa Pereira,1971-03-15,Sim,NÃ£o,18/10/2025,16/02/2026,19,133,NÃ£o
+P0049,larissa nascimento ferreira,12/03/1946,NÃ£o,Sim,29/06/2023,07/05/2024,165,7.1,NÃ£o
+P0050,Juliana Rocha Machado,24/12/2030,NÃ£o,Sim,22/10/2024,11/22/2025,8.4,126,NÃ£o
+P0051,Larissa Almeida Nascimento,30/05/1971,Sim,NÃ£o,20/02/2025,07/08/2025,167,136,Sim
+P0052,Mariana Machado Fernandes,06/07/1969,NÃ£o,Sim,17/10/2024,01/05/2025,151,127,NÃ£o
+P0053,SÃ‰RGIO FERNANDES ALMEIDA,06/10/1969,NÃ£o,Sim,10/09/2023,25/03/2024,135,92 mg/dL,Sim
+P0054,Maria Dias Marques,21/03/1970,Sim,NÃ£o,10/10/2025,29/10/2026,148,131,NÃ£o
+P0055,Gabriel Machado Nascimento,26/02/1998,Sim,NÃ£o,29/03/2025,24/08/2025,145,102,Sim
+P0056,Aline Marques Cardoso,29/04/1983,Sim,NÃ£o,18/03/2023,06/09/2023,125,117,NÃ£o
+P57,Francisca Santos Carvalho,04/01/1981,nÃ£o,Sim,26/01/2025,06/05/2025,192,154,NÃ£o
+P0058,Pedor Gomes Dias,07/09/1959,NÃ£o,Sim,27.02.2024,03/03/25,165,147,NÃ£o
+P0059,Tatiana AraÃºjo Lima,10/09/1949,Sim,NÃ£o,09/05/2025,30/07/2025,159,39,Sim
+0060,ClÃ¡udia Dias Dias,03/03/1971,Sim,0,09/09/2025,18/03/2026,157,104,Sim
+P0061,Vrea Ramos Lima,14/12/1941,Sim,NÃ£o,2025-01-19,27/07/2025,137,107,nÃ£o
+P0062,Daniela Nunes Barbosa,02/08/1959,0,Sim,21-04-2025,23/07/2025,144,-114,NÃ£o 
+P0063,Helena Barbosa Cardoso,20/04/1995,Sim,NÃ£o,09.11.2025,02/10/2026,-132,89,NÃ£o
+P0064,Eduardo Ribeiro Rodrigues,1990-06-04,nao,Sim,24/12/2023,02/07/2024,211,192,NÃ£o
+P0065,renata alves carvalho,04/08/1942,Sim,NÃ£o,05/03/2024,09/12/2024,128,102,NÃ£o
+P0066,MARCOS RAMOS LIMA,20/02/1990,N,NÃ£o,29/10/2024,02/07/2025,132,101 mg/dL,NÃ£o
+P0067,HELENA MARTINS GOMES,08/06/1994,NÃ£o,Sim,10/11/2023,22/03/2024,190,163,Sim
+P-0068,JosÃ© Oliveira Fernandes,08/11/1966,NÃ£o,Sim,02/01/2024,12/05/2024,29,100,S
+P0069,Larissa Costa Ribeiro,23/10/1944,NÃ£o,Sim,12-11-2023,24/10/2023,126,103,NÃ£o
+P0070,Maria Barbosa Almeida,27/02/1891,S,NÃ£o,08/07/2023,01/05/2024,107,70,NÃ£o
+P0071,Fernanda Teixeira Oliveira,29/03/1982,Sim,NÃ£o,13/07/2023,09/03/2024,151,141,NÃ£o 
+P0072,  Roberto  Dias Santos ,11/09/1954,NÃ£o,Sim,04/07/2023,05/04/2024,190,150,nÃ£o
+P0073,PatrÃ­cia Almeida Ramos,31.01.1959,Sim,NÃ£o,14/05/2025,14/02/2026,154,103,Sim
+P0074,AntÃ´nio Mendes Cardoso,25 de marÃ§o de 1948,0,Sim,08/03/2024,15/08/2024,218,170,SIM
+p0075,Orlando Costa Pereira,11/06/1955,Sim,NÃ£o,2025-06-06,09/11/2025,206,180,NÃ£o
+P0076,Isabela Gomes Fernandes,04/10/1965,nÃ£o,Sim,26 de marÃ§o de 2025,29/05/2025,142,100,1
+P0077,  Bruno  Ramos Lima ,22/08/1949,NÃ£o,Sim,2024-03-31,24/12/2023,133,101,Sim
+P0078,DÃ©bora Rocha Soares,09/03/2001,Sim,NÃ£o,17/08/2025,11/04/2026,188,178,NÃ£o
+P0079,Pedro Fernandes Vieira,04/05/1943,Sim,NÃ£o,27/03/2023,30/06/2023,153 mg/dL,124,NÃ£o
+P0080,Vera Freitas Cardoso,07/07/1988,Sim,NÃ£o,14/10/2024,19 de fevereiro de 2025,153,103,Sim
+P0081,Roberto Santos Oliveira,19/05/1946,NÃ£o,Sim,02/12/2025,02/04/2026,189,174,NÃ£o
+P-0082,Fernanda Barbosa Cardoso,17/09/1961,Sim,NÃ£o,17/08/2025,17/02/2026,102,70,Sim
+ P0083 ,Tatiana Oliveira Ramos,11/05/1962,NÃ£o,Sim,17/06/2025,20/11/2025,130,115,0
+P0084,ClÃ¡udia AraÃºjo Santos,05/10/1984,NÃ£o,Sim,26/02/2025,14/05/2025,176,162,NÃ£o
+P85,Felipe Rocha Fernandes,24/09/1978,NÃ£o,Sim,23/02/2023,22/01/2023,100,81,0
+P0086,Lucas Andrade Carvalho,15/08/1992,Sim,NÃ£o,12/15/2023,04/10/2024,182,133,Sim
+P0087,Tatiana Nunes Silva,01/12/1961,Sim,NÃ£o,06/21/2024,14/11/2024,182,156,NÃ£o
+P0088,juliana oliveira carvalho,06/08/1996,NÃ£o,Sim,08/25/2023,09/06/2024,256,228,NÃ£o
+P0089,DÃ©bora Freitas Teixeira,24/07/1996,NÃ£o,Sim,25/01/2024,02/21/2025,141,118,NÃ£o
+P0090,Juliana Rodrigues Fernandes,10/05/1958,Sim,NÃ£o,31/03/2023,26.01.2024,218,183,NÃ£o
+P0091,Helena Costa AraÃºjo,14/05/1992,NÃ£o,Sim,11/10/2025,06/01/2026,174,142,NÃ£o
+P0092,Paulo Lopes Oliveira,10/05/1941,Sim,NÃ£o,03/07/2023,13/04/2024,181,146,NÃ£o
+P0093,isabela martins teixeira,29/03/1970,sim,NÃƒO,12 de dezembro de 2023,06/10/2024,137,77 mg/dL,Sim
+P0094,Mariana AraÃºjo Lopes,22/07/1982,NÃ£o,Sim,02/11/23,14/06/2024,151,113,Sim
+p0095,Renata Ferreira Ramos,14/06/1996,Sim,NÃ£o,24/11/2024,12/10/2025,215,179,NÃ£o
+P0096,Maria Soares Lopes,15/05/1950,Sim,NÃ£o,16.05.2024,17/12/2024,100,87 mg/dL,NÃ£o
+P0097,Beatriz Barbosa Cavalcante,09/12/1940,NÃ£o,Sim,02/12/2024,30/04/2025,147,129,NÃ£o
+P0098,ClÃ¡udia Costa Teixeira,27.05.1999,Sim,NÃ£o,19-05-2023,21/09/2023,150,105,Sim
+P0099,Roberto Santos Mendes,04/08/1994,Sim,NÃ£o,05/11/2023,17/07/2024,216,188,NÃ£o
+P0100,Pedro Almeida Rocha,26/10/1979,NÃ£o,NÃ£o,27/02/2025,15/09/2025,100,70,Sim
+P0101,AntÃ´nio Soares Mendes,1995-10-22,sim,NÃ£o,30/08/2024,07/04/2025,205,169,NÃ£o
+P0102,Gabriel Carvalho Vieira,09/03/1976,Sim,NÃ£o,28-10-2024,21/03/2025,172,139,0
+P0103,Aline Cavalcante Nunes,18/08/1958,NÃ£o,Sim,12/09/2024,15/08/2025,150,123,NÃ£o
+P0104,Thiago Lopes Ribeiro,20/08/1985,Sim,NÃ£o,2024-02-05,05/09/2024,19,76,Sim
+P0105,Thiago Moreira Ramos,01/02/2001,Sim,NÃ£o,20/09/2024,07/12/2024,125,98,nÃ£o
+P0106,"Cavalcante, Tatiana Almeida",31/10/1985,Sim,Sim,02/11/2025,29/06/2026,149,113,NÃ£o
+P0107,Camila Silva Marques,28/02/1987,Sim,Sim,15/01/2025,18/07/2025,119,77,NÃ£o
+P0108,Maria Alves Lopes,26/04/1959,Sim,NÃ£o,17/03/2025,13/01/2026,193,155,NÃ£o
+P0109,eduardo santos cavalcante,03/08/1947,NÃ£o,Sim,08/28/2023,15/02/2024,138,96,Sim 
+P0110,Felipe Alves Marques,30 de janeiro de 1961,Sim,NÃ£o,08/01/2023,27/04/2023,173,160,NÃ£o
+P0111,Larissa Marques Alves,28/09/1997,Sim,NÃ£o,26/01/2024,03/01/2025,158,125,NÃ£o 
+P0112,Paulo Nascimento Lopes,27/05/1953,s,Sim,07/23/2023,28/06/2024,100,70,NÃ£o
+P0113,Paulo Santos Freitas,14-12-1977,NÃ£o,Sim,09/05/23,19/02/2024,139,96,Sim
+P0114,Pedro Souza Marques,10/04/1956,Sim,NÃ£o,21/05/2023,27/11/2023,133,107,N
+P0115,Bruno Costa Silva,15/09/1952,0,NÃ£o,21/09/2024,26/07/2024,155,131,NÃ£o
+P0116,CAMILA ANDRADE RODRIGUES,28/10/1976,NÃ£o,Sim,19/06/2023,08/06/2024,166,133,NÃ£o
+P0117,Orlando Barbosa Almeida,06/04/1994,NÃ£o ,S,16/12/2025,16/09/2026,144,"107,5",Sim
+P0118,Larissa Vieira Marques,19/05/1963,Sim,NÃ£o,23/06/2025,13/11/2025,100 mg/dL,70,Sim
+P119,antÃ´nio pereira lopes,04/03/1940,NÃ£o,Sim,22/11/2024,2 de julho de 2025,187,166,NÃ£o
+P0120,Aline Nunes Machado,05/12/1994,Sim,NÃ£o,09/02/2025,03/06/2025,244,564,NÃ£o
+P0121,NatÃ¡lia Mendes Rocha,18/02/2018,Sim,NÃ£o,30/01/2023,29/09/2023,154,102,Sim
+P0122,ClÃ¡udia Silva Andrade,30/01/1977,Sim,NÃ£o,17/02/2023,15/09/2023,158,131,NÃ£o
+P0123,Ricardo Dias Machado,21/06/1963,Yes,NÃ£o,11/06/2024,11/08/2024,193,653,Sim
+P0124,JosÃ© Andrade Cavalcante,02/12/1980,Sim,NÃ£o,23/11/2025,12/12/2026,165,7.3,NÃ£o
+P0125,Tatiana Almeida Pereira,29/12/1945,NÃ£o,Sim,28/05/2023,23-05-2024,168,149,NÃ£o
+0126,Thiago Santos Vieira,08/09/1976,NÃ£o,Sim,22/06/2025,26/11/2025,152,651,nÃ£o
+P0127,SÃ©rgio Cavalcante Costa,02/06/1994,S,NÃ£o,10/04/2023,14.07.2023,111,73,Sim
+P0128,Thiago Gomes Silva,14/10/1965,nÃ£o,Sim,13/07/2023,15/11/2023,162,106,Sim
+P0129,Felipe Gomes Carvalho,30/10/1968,Sim,NÃ£o,27/08/24,10/11/2024,182,145,NÃ£o
+P0130,Eduardo Nunes Rodrigues,24/11/1940,Sim,NÃ£o,09/07/2023,26/01/2024,179,144,NÃ£o
+p0131,AntÃ´nio Cavalcante Pereira,04/10/1988,Sim,NÃ£o,06/04/2024,28/01/2025,186,178,NÃ£o
+P0132,  Juliana  Gomes Martins ,19/07/1989,Sim,NÃ£o,03/09/2023,19-05-2024,149,111,Sim 
+P0133,rafael ribeiro andrade,1 de julho de 1982,Sim,NÃ£o,05/10/2023,18/10/2024,188,177,NÃ£o
+P0134,"Almeida, JosÃ© Nascimento",06/10/1964,Yes,NÃ£o,11/03/2023,13/10/2023,100,70,Sim
+P0135,Henrique Alves Carvalho,15/07/1967,Sim,nÃ£o,28/04/2025,2 de agosto de 2025,166,115,Sim
+P0136,"Rodrigues, DÃ©bora Souza",11/02/1966,NÃ£o,Sim,04/07/2023,14/12/2023,"174,6",557,nao
+P0137,Farncisca Martins Santos,03/03/1996,NÃ£o,Sim,12/07/2023,01/17/2024,134,95 mg/dL,Sim
+P0138,Aline Cavalcante Almeida,01/11/1943,sim,Sim,05/10/2025,2026-08-11,216,182,NÃ£o
+P0139,Eduardo Martins Cavalcante,15/10/1962,NÃ£o,Sim,10/12/2025,03/08/2026,112 mg/dL,94,NÃƒO
+0140,SÃ©rgio Santos Machado,12/10/1981,NÃ£o,Sim,18/04/2023,11/05/2024,100,75,NÃ£o
+P0141,ClÃ¡udia Nunes Pereira,27/11/1997,NÃ£o,Sim,07/09/2023,20/03/2024,125,78,Sim
+P0142,Marcos Carvalho Freitas,14/06/2001,SIM,NÃ£o,20/03/2023,13/02/2024,205,701,Sim
+P-0143,Vera Lima Martins,08/01/1994,Sim,NÃ£o,22/09/2024,29/06/2025,189,154,Sim
+P0144,Rafael Ferreira Nunes,21/09/1973,NÃ£o,Sim,16/03/2024,22/03/2025,120,108,NÃ£o
+P0145,Rodrigo Soares Rocha,03/06/1961,NÃ£o,Sim,08/11/2024,15/10/2025,179,132,Sim
+P0146,Paulo Freitas Ribeiro,17/10/1959,NÃ£o,Sim,06/04/2024,10/11/2024,132 mg/dL,108,NÃ£o
+0147,Marcos Vieira Ferreira,04/08/1996,Sim,NÃ£o,09/08/2025,29/03/2026,201,169,NÃ£o
+P0148,Felipe Teixeira Machado,17/03/1968,Sim,NÃ£o,03/09/2023,24/03/2024,235,182,Sim
+P0149,PatrÃ­cia Rocha Rocha,06-04-1960,Sim,Sim,07/07/2024,11/09/2024,208,187,nÃ£o
+P0150,Marcos Cardoso Fernandes,01.04.1981,N,Sim,02/06/2023,2024-05-08,181,150,Sim
+p0151,Beatriz Nunes Ferreira,15/06/1995,Sim,NÃ£o,01/16/2023,28/12/2023,175,128,Sim
+P0152,Henrique Oliveira Rocha,10/12/1996,S,Sim,13 de fevereiro de 2023,20/12/2023,253,204,Sim
+P0153,Thiago Souza Martins,28/04/1993,Sim,NÃ£o,16/02/2024,06/08/2024,147 mg/dL,99,Sim
+P154,AntÃ´nio AraÃºjo Teixeira,20/05/2029,Sim,NÃ£o,19/12/2025,07/04/2026,204,178,NÃ£o
+P0155,Carlos Alves Barbosa,13/12/1975,Sim,nao,21/06/2023,30/09/2023,211,163,Sim
+P0156,JoÃ£o Souza Barbosa,02/07/1940,NÃ£o,Sim,08-01-2023,12/03/2023,124,4.1,Sim
+P0157,Paulo Machado Ramos,4 de novembro de 1948,Sim,NÃ£o,20/12/2024,20/05/2025,170,139,NÃ£o
+P0158,Mariana Marques Mendes,16/10/1943,NÃ£o,NÃ£o,11/07/2023,24-11-2023,"194,6",180,NÃ£o
+P-0159,Maria Dias Ramos,23/02/1994,NÃ£o,Sim,14/12/2023,26/05/2024,113,92,N
+P0160,Rafael Martins Ramos,05/07/1945,NÃ£o,Sim,23/09/2025,12/01/2026,202,9.5,NÃ£o
+P0161,Lucas Lima Alves,13/03/1966,NÃ£o,Sim,17/02/2023,23/03/2024,183,151,sim
+P0162,Helena Rocha Souza,15/12/1977,Sim,NÃ£o,15/04/2024,29/11/2024,"108,1",70,Sim
+P-0163,Felipe Gomes Rocha,11/03/1992,SIM,NÃ£o,05/06/2024,11/05/2025,181,149,NÃƒO
+ P0164 ,Yamsin Costa Moreira,10/29/1963,Sim,NÃ£o,12/04/2025,30/12/2025,148,121,NÃ£o 
+P165,Maria Ribeiro Silva,28/04/1987,NÃ£o,Sim,02/10/2023,07/05/2024,202,148,Sim
+P0166,MARIANA NUNES COSTA,16/10/1986,Yes,NÃ£o,14/08/2025,10/06/2025,150,134,NÃ£o
+P0167,  DÃ©bora  Andrade Oliveira ,12/04/1974,s,NÃ£o,03/09/2023,05/08/2024,132,111,NÃ£o
+P0168,Ana Barbosa Pereira,24/01/1968,Sim ,NÃ£o,22 de abril de 2023,06/11/2022,169,129,Sim
+P-0169,Beatriz Moreira Andrade,19/03/1979,NÃ£o,Sim,03-02-2024,27/02/2025,228,195,Sim
+P0170,Larissa Nunes Oliveira,06/09/1997,NÃ£o,NÃ£o,15/07/2023,10/07/2024,-101,139,SIM
+P0171,Felipe Nascimento Nunes,17/06/1945,s,NÃ£o,10/02/2023,05/07/2023,100,70,Sim
+P0172,DÃ©bora Nunes Dias,10/05/1958,Sim,NÃ£o,17/09/2023,08/05/2023,145,94,Sim
+P0173,Francisca Oliveira Rodrigues,24/01/1958,NÃ£o,Sim,2025-01-11,12/05/2025,151,128,Sim
+p0174,VinÃ­cius Martins Ramos,16/05/1946,NÃ£o,Sim,29/08/2025,04/12/2025,212,178,NÃ£o
+P0175,Marcos Almeida Lopes,05/07/1996,Sim,NÃ£o,05/05/25,24/12/2025,-134,206,nÃ£o
+P0176,Vera Marques Cavalcante,06/06/1941,NÃ£o,Sim,27/10/2024,2025-05-04,162,120,Sim
+P0177,"Gomes, SÃ©rgio Santos",16-11-1955,Sim,NÃ£o,17/11/2023,11/03/2024,188,134,Sim
+P0178,Henirque Pereira Ferreira,09/06/1964,NÃ£o,Sim,08/10/2023,09/10/2024,197,191,NÃ£o
+P0179,Gabriel Vieira Pereira,26/11/1990,Sim,NÃ£o,18/12/2025,15/10/2025,205,178,NÃ£o
+P0180,  SÃ©rgio  Rodrigues Almeida ,21/08/1973,NÃƒO,Sim,22/08/2023,26/12/2023,220,10.3,Sim 
+P181,FELIPE MOREIRA CARVALHO,11/11/1983,NÃ£o,Sim,26/12/2025,19 de outubro de 2026,223,178,Sim
+P-0182,Eduardo Barbosa Costa,1965-09-03,NÃ£o,Sim,30/11/2025,07/14/2026,181,137,Sim
+P0183,Thiago Machado Fernandes,27/04/46,NÃ£o,Sim,17/11/2023,25/11/2024,212,207,NÃ£o
+P-0184,Sandra Nunes Oliveira,02/10/1964,NÃ£o,NÃ£o,2025-08-14,2025-11-27,177,121,Sim
+P0185,Walter Andrade Dias,24/11/1941,Sim,NÃ£o,18 de marÃ§o de 2025,19.11.2025,34,177,NÃ£o
+P0186,Aline Machado Soares,10/01/1902,Sim,NÃ£o,08/11/2025,02/09/2026,197,180,0
+P0187,Renata Cavalcante Cardoso,06/09/1981,Sim,NÃ£o,01/04/2025,22/10/2025,131,4.3,Sim 
+ P0188 ,JoÃ£o Lopes Freitas,07/01/1956,Sim,NÃ£o,04/05/2025,05-04-2026,181,139,1
+P0189,Tatiana Moreira Silva,30-10-1982,Sim,NÃ£o,28/10/2025,26/10/2026,148,112,NÃ£o
+0190,AntÃ´nio Cavalcante Souza,25/10/1984,NÃ£o,NÃ£o,25/12/2023,16/03/2024,205,191,NÃ£o
+P0191,Juliana Ribeiro Oliveira,06/02/1992,NÃ£o,Sim,23.06.2025,19/03/2026,170,126,NÃ£o
+P0192,Henrique Ramos Ferreira,31/01/1950,Sim,NÃ£o,26/11/2025,27/11/2026,163,134,NÃ£o
+P0193,beatriz teixeira lima,29/12/1954,NÃ£o,Sim,2025-10-07,14/12/2025,126,117,NÃ£o
+P0194,Orlando Gomes AraÃºjo,06/06/63,Sim,Sim,17-10-2025,06/09/2026,153,"123,8",Sim
+P0195,Fernanda Fernandes Fernandes,30/06/1959,Sim,NÃ£o,14/08/2025,25/05/2026,201,"159,8",Sim
+P0196,Gabriel Costa Carvalho,20/02/1950,Sim,NÃ£o,29/08/2025,10/06/2026,185,132 mg/dL,Sim
+P197,DÃ©bora Andrade Carvalho,13/04/2028,Sim,NÃ£o,18/03/2025,27/12/2025,157,106,Sim
+P0198,Helena Oliveira Carvalho,02/06/1959,Sim,Sim,18/09/2023,25/06/2024,100,29,NÃ£o
+P0199,Juliana Costa Freitas,16/01/1948,Sim,nao,22/01/2024,21/05/2024,117,78,Sim
+P0200,"Andrade, Rodrigo Ferreira",23/08/1999,sim,NÃ£o,18/09/2023,08/10/2024,155,131,NÃƒO
+0201,  Beatriz  Souza Ramos ,21/05/1966,Sim,NÃ£o,28/02/25,10/10/2025,7.2,84,Sim
+P0202,Rodrigo Nunes Carvalho,15/08/1966,Sim,Sim,30/05/2025,15/08/2025,191,168,NÃ£o
+P0203,Ana Rodrigues Rodrigues,09/04/1966,Sim,NÃ£o,10 de agosto de 2024,07/05/2025,200,160,SIM
+P0204,Eduardo Cavalcante Vieira,11/07/1969,NÃ£o,Sim,05/04/2023,18/06/2023,"165,8",113,1
+P0205,Lucas Vieira Cavalcante,30/06/1950,NÃ£o,Sim,17/08/2023,30/01/2024,226,10.9,NÃ£o
+P0206,VinÃ­cius Oliveira Soares,15/07/2019,Sim,NÃ£o,10/02/2024,03/12/2024,"209,7",189,NÃ£o
+P0207,Vera Marques Rodrigues,19/05/1941,Sim,N,23/08/2023,11/08/2024,196,173 mg/dL,NÃ£o
+P0208,Luiz Soares Barbosa,27/12/1973,Sim,NÃ£o,28/07/2023,25/03/2024,139,99,NÃ£o
+P0209,Orlando Lima Rodrigues,15/06/1944,NÃ£o,Sim,20/12/2024,16/07/2025,168,166,NÃ£o
+P0210,Orlando Costa Rodrigues,08/05/1989,NÃ£o,Sim,02/05/2023,23/11/2023,134,94,NÃ£o
+P0211,AntÃ´nio Ribeiro Almeida,28/07/1983,NÃƒO,Yes,17/03/2024,10/04/2025,135,99,Sim
+P0212,Francisca Alves Marques,22/01/1987,Sim,NÃ£o,13/08/2024,23/12/2024,593,79,sim
+P-0213,Daniela Silva Dias,26/03/1992,Sim ,NÃ£o,23/10/2025,14/01/2026,141,104,nÃ£o
+P0214,Bruno Machado Lima,04/06/1969,Sim,Sim,11/07/2024,21/02/2025,100,70,NÃ£o
+P0215,Taitana Carvalho Soares,07/08/1942,NÃ£o,Sim,28/03/2025,27/11/2024,136,96 mg/dL,Sim
+P0216,Tatiana Vieira Costa,06/03/1977,NÃ£o,Sim,05/09/2023,30/09/2024,173,129,Sim
+P0217,Orlando Ferreira Fernandes,1959-11-23,NÃ£o,Sim,4 de outubro de 2025,22/04/2026,148,106,Sim
+0218,Isabela AraÃºjo Nunes,02/08/1998,NÃ£o,Sim,23/01/2023,28/08/2023,-140,171,NÃ£o
+P0219,Felipe Machado Rodrigues,5 de setembro de 1960,nÃ£o,Sim,01/06/2024,23/08/2024,193,183,NÃ£o
+P0220,  Francisca  Machado Almeida ,24/05/1949,nÃ£o,Sim,21/01/2024,13/01/2025,207,207,NÃ£o
+P0221,LetÃ­cia Nunes Pereira,09/11/1985,s,Sim,03/07/2025,27/02/2026,100,70 mg/dL,Sim
+P0222,Fernanda Fernandes Moreira,1975-11-06,Sim,NÃ£o,16/12/2023,23/10/2023,174,147,NÃ£o
+P0223,Daniela Fernandes Dias,06/07/1951,NÃ£o,Sim,11/11/2024,20/10/2025,188,140,Sim
+P0224,SÃ©rgio Freitas Mendes,18/12/1987,Sim,NÃ£o,22/09/2025,02/06/2026,143,115,NÃ£o
+P0225,Leandro Nunes Pereira,1983-12-15,NÃ£o,Sim,07/12/2024,17/07/2025,165,124,Sim
+P0226,Eduardo Andrade Vieira,09/07/1997,NÃ£o,Sim,21/04/2025,25/02/26,130,93,Sim
+P0227,Aline Martins Rodrigues,23/02/1975,NÃƒO,Sim,19/06/2024,20/01/2025,131,106,NÃ£o
+P0228,Roberto AraÃºjo Martins,12 de julho de 1976,NÃ£o,Sim,28 de marÃ§o de 2023,06/09/2023,183,141,Sim
+P0229,Juliana Lima Souza,06/05/1958,NÃƒO,Sim,07/23/2025,03/14/2026,131,93,Sim
+P0230,Rodrigo Freitas Teixeira,21/04/1970,NÃ£o,Sim,23/12/2024,22 de outubro de 2025,264 mg/dL,237,NÃ£o
+P0231,Renata Ribeiro Carvalho,16/08/1987,Sim,NÃ£o,2 de julho de 2025,15/10/2025,-126,167,NÃ£o
+P0232,ricardo pereira fernandes,25/12/1958,Sim,NÃ£o,02/09/2023,31/12/2023,182,122,Sim 
+P0233,Thiago Martins Nunes,18/04/1976,Sim,NÃ£o,18/09/2024,22/07/2025,192,147,Sim
+P0234,Camila Ferreira Costa,04/04/1964,Sim,NÃ£o,26/09/2025,28-07-2026,187,131,Sim
+P0235,Roberto Silva Vieira,27/12/1959,NÃ£o,Sim,01/05/2025,19/11/2025,219,157,Sim
+P0236,Gabriel Pereira Barbosa,28/12/1958,Sim,nÃ£o,10/07/2023,27/05/2024,"181,2",142,NÃ£o 
+P0237,SÃ©rgio Vieira Dias,29/07/1982,S,NÃ£o,2024-08-21,26/11/2024,149,"110,7",NÃ£o
+P0238,Sandar Costa Cardoso,10/09/1946,NÃ£o,Sim,14/01/2025,30/05/2025,164,132,Sim
+P0239,Fernanda Nunes Andrade,22/03/1946,Sim,NÃ£o,05/03/2025,04/08/2025,212,192,Sim
+P0240,Aline Cavalcante Lopes,01/03/1972,nao,Sim,02/05/2023,29/09/2023,273,218,SIM
+P0241,Eduardo Gomes Cavalcante,12/09/1975,Sim,NÃ£o,16/09/2024,22/06/2025,116,70,Sim
+P0242,SÃ©rigo Teixeira Almeida,29/07/1944,Sim,0,16-03-2023,01/01/2024,183,145,Sim
+P0243,Eduardo Dias Mendes,08/01/1956,NÃ£o,Sim,25/02/2024,08/09/2024,144,123,NÃ£o
+P0244,Natalia Costa Gomes,19/11/1975,NÃ£o,Sim,08/06/2024,16/06/2025,127,106,NÃ£o
+P0245,  Camila  Lopes Teixeira ,31/12/1963,Sim,NÃ£o,28/11/2024,26/11/2025,-80,178,NÃ£o
+P0246,ORLANDO LIMA GOMES,31/07/1979,1,NÃ£o,22/04/2024,06/12/2024,201,32,Sim
+P0247,Luiz Ramos Fernandes,23/08/1967,NÃ£o,S,13/06/2023,14/06/2024,100,86,NÃ£o
+P0248,LETÃCIA ANDRADE MARTINS,1994-08-11,nao,NÃ£o,27/06/2023,19/04/2024,166,142,Sim
+P0249,Paulo Martins Mendes,26/12/1958,SIM,NÃ£o,05/19/2024,04/03/2025,193 mg/dL,155,Sim
+P0250,Ana Rocha Ramos,23/10/1986,NÃ£o,Sim,18/04/2023,01/12/2023,210,178,NÃ£o
+P0251,Vera Carvalho Cardoso,03/01/1897,Sim,NÃ£o,30/11/2024,31/05/2025,100,80,NÃ£o
+P0252,  Beatriz  Dias Cardoso ,31/03/1969,NÃ£o,Sim,19/07/2025,05/10/2025,162,140,NÃ£o
+P-0253,Ana Souza Cavalcante,16/06/1974,NÃ£o,Sim,03/07/2025,28/04/2026,112 mg/dL,70,Sim
+P254,Francisca Costa Ramos,13/06/1966,NÃ£o,Sim,12/05/2025,01/06/2026,193,171,NÃ£o
+P-0255,JoÃ£o Vieira Alves,10/12/1983,Sim,NÃ£o,02/07/2023,19/01/2024,190,155,NÃ£o
+P0256,Pedro Rocha Gomes,19/10/1946,Sim,NÃ£o,24/11/2024,27/09/2025,168,"131,7",Sim
+P0257,Fernanda Marques Santos,12/08/1972,NÃ£o,Sim,29/06/2023,22/05/2024,167,157,NÃ£o
+P0258,Leandro Martins AraÃºjo,02/09/1959,NÃ£o,Sim,01/03/2023,14/12/2023,150,114,Sim
+P0259,Paulo Mendes Dias,03/10/1984,Sim ,NÃ£o,07/03/2025,30/05/2025,110,76,Sim
+P0260,Renata Barbosa Fernandes,13/04/1980,NÃ£o,Sim,13/11/2025,15/05/2026,118,78,Sim
+0261,Lucas Freitas Freitas,03/10/1978,NÃ£o,Sim,23/01/2024,18/08/2024,180,150,NÃ£o
+P0262,Henrique Marques Moreira,18/11/1943,Sim,NÃ£o,21/05/2024,01/03/2025,"169,2",131,Sim
+P0263,Aline Vieira Ramos,18/09/1982,NÃ£o,Sim,22/03/2024,10/04/2025,159,28,Sim
+P0264,Camila Machado Moreira,13/07/2001,NÃ£o,Sim,29/01/2023,02/09/2023,236,183,Sim
+P0265,Lucas Teixeira Lopes,08/12/1958,Sim,NÃ£o,12/01/2024,07/04/2024,-122,180,Sim
+P266,SÃ©rgio Barbosa Pereira,01/06/1973,Sim,NÃ£o,31/07/2023,28/04/2024,131,102,NÃ£o
+P0267,  Henrique  Vieira Soares ,31/05/1999,Sim,NÃ£o,22/06/2023,12/01/2023,793,134,Sim
+P0268,Beatriz Ramos Costa,18/07/1973,sim,NÃ£o,22/10/2024,28/07/2025,"115,2",70,Sim
+P0269,Mariana Marques Oliveira,23/08/1944,NÃ£o,S,13-10-2023,11/01/2024,185,154,NÃ£o
+P0270,beatriz mendes freitas,06/09/1958,Sim,0,24/05/2025,08/02/2026,159,133,NÃ£o
+P0271,Renata Cardoso Martins,26/04/1946,Sim,nao,23 de julho de 2023,07/07/2024,155,104,NÃ£o
+P0272,Orlando Carvalho Cardoso,14/09/1890,NÃ£o,Sim,16/08/2025,12/03/2026,184,166,NÃ£o
+P0273,Bruno Silva Oliveira,27/12/2030,Sim,NÃ£o,28/09/2024,23/10/2025,177,150,NÃ£o
+P0274,Isabela Costa Marques,26/04/1994,Sim,NÃ£o,04/01/2025,23/03/2025,109,742,Sim
+P0275,Roberto Barbosa Silva,12/05/1953,Sim,Sim,24/07/2023,09/07/2024,100,70,Sim
+P0276,Helena Machado Rocha,02/05/59,Sim,NÃ£o,06/04/2023,31-10-2023,100,70,Yes
+P0277,Tatiana Ferreira Lopes,18/02/1983,Sim,NÃ£o,01/06/2024,2 de junho de 2025,103,4.1,NÃ£o
+P0278,Pedro Nunes Costa,01/04/1999,Sim,Sim,08/03/2025,07/08/2025,191,132,Sim
+P0279,Vera Santos Mendes,16/07/1989,NÃ£o ,Sim,10.10.2025,10/05/2026,165,110,Sim
+0280,Mariana Soares Rocha,14/06/1951,sim,NÃ£o,02/12/2024,12/02/2025,227,202,NÃ£o
+P0281,Paulo Mendes Machado,04/12/1943,Sim,NÃ£o,10/08/2024,23/01/25,177 mg/dL,154,NÃ£o
+P282,Paulo Nunes Cavalcante,05/04/1957,NÃ£o,Sim,24/11/2024,02/07/2024,"214,9",203,NÃ£o
+P0283,vinÃ­cius ribeiro rodrigues,05/06/1941,Sim,NÃ£o,19/08/2023,15/11/2023,159,107,Sim
+P0284,ClÃ¡udia Teixeira Mendes,11/11/1972,1,NÃ£o,09/03/2023,04/11/2023,202,166,Sim 
+P0285,SÃ©rgio Freitas Andrade,3 de julho de 1980,Sim,NÃ£o,26/12/2025,29/10/2026,183,154,NÃ£o
+P0286,Daniela Alves Oliveira,24/01/1952,NÃ£o,Sim,01/10/2023,16/12/2023,21,148,NÃ£o
+P-0287,Eduardo Fernandes Ramos,18/10/1984,Sim,NÃ£o,28/04/2024,08/03/2025,205,161,NÃ£o
+P0288,Helena Ramos Ribeiro,08/04/1943,NÃ£o,Sim,20/12/2024,07/10/2024,201,165 mg/dL,Sim
+P0289,Felipe Alves Soares,04/01/1968,NÃ£o,NÃ£o,22/01/2024,04/11/2024,175,137,Sim
+P0290,Paulo Costa Ferreira,03/06/1956,NÃ£o,Sim,13/04/2023,23/12/2023,152,110,Sim
+P0291,Ana Rocha Dias,28/04/1897,NÃ£o,Sim,24/04/2024,08/09/2024,138,100,NÃƒO
+P0292,Rodrigo Souza Ferreira,19/07/1962,Sim,NÃ£o,02/07/2025,01/04/2026,11.4,162,Sim
+P-0293,DÃ©bora Lima Soares,07/06/1991,Sim,Sim,24/07/2023,23/11/2023,204,159,Sim
+ P0294 ,NatÃ¡lia Ribeiro Oliveira,31/07/1958,Sim,NÃ£o,22/11/2024,16/12/2025,"170,3",149,NÃ£o
+P0295,Mariana Cardoso Alves,23/08/1973,NÃ£o,Sim,21/01/2024,03/07/2024,190,161,NÃ£o
+P0296,JoÃ£o Souza Costa,18/01/1991,1,NÃ£o,15/01/2024,02/07/2023,241,196,Sim
+P0297,PatrÃ­cia Pereira Almeida,19/06/1968,nao,Sim,24/08/2025,09/01/2026,11.7,175,Sim
+P0298,PatrÃ­cia Dias Mendes,11 de julho de 1990,NÃ£o,Sim,25/03/2025,25/07/2025,187,172,NÃ£o
+P0299,JosÃ© Dias Andrade,11/11/1952,NÃ£o,Sim,28/07/2023,07/11/2023,135,107,NÃ£o
+P0300,Mariana Rocha Soares,24/02/1943,Sim,Sim,18/10/2024,14/07/2025,198,146,Sim
+P0301,Lucas Rodrigues Ribeiro,04/11/2000,Sim,NÃ£o,25/08/2023,12/05/2024,163,126,NÃ£o
+P0302,SÃ©rgio Soares Rodrigues,17/12/1995,s,NÃ£o,21/04/2023,12/03/2024,168,138,NÃ£o
+P0303,Helena Almeida Barbosa,09/10/1959,NÃ£o,Sim,23/09/2024,03/05/2024,159,122,Sim
+P0304,Ana Ramos Santos,17/01/1946,NÃ£o,Sim,07/09/2025,12/08/2026,185,159,Sim
+P0305,JooÃ£ Vieira Santos,23 de junho de 1965,NÃƒO,Sim,9 de maio de 2023,01/04/2024,158,125,Yes
+P0306,Marcelo Oliveira Rodrigues,22/10/1990,Sim,N,07/03/2025,14/10/2025,218,168,Sim 
+P0307,SANDRA ARAÃšJO FERNANDES,20/11/1953,Sim,NÃ£o,18/02/2024,24/09/2024,7.9,94,Sim
+0308,Eduardo Lima Barbosa,15/01/1992,Sim,NÃ£o,18/07/2025,27.09.2025,173 mg/dL,118,Sim
+P0309,Fernanda Souza Souza,15/01/1950,NÃ£o,Sim,10/02/2023,01/19/2024,1000,130,NÃ£o
+P0310,Rodrigo Silva Silva,22/11/1997,Sim,NÃ£o,17/03/2024,01/25/2025,185,"157,9",NÃ£o
+P0311,Pedro Mendes Lima,26/12/1982,Sim,NÃ£o,16/08/2025,09/01/2026,163,136 mg/dL,Sim
+P0312,Leandro Vieira Souza,25/05/2019,Sim,NÃ£o,17/05/2024,2025-06-15,178,126,Sim
+P0313,Maria Silva Gomes,02/05/1978,Sim,NÃ£o,03/07/2024,20/09/2024,197,162 mg/dL,NÃ£o
+P0314,Aline Carvalho Nunes,08/04/1943,NÃ£o,Sim,15/03/2025,13/07/2025,"192,4",164,Sim
+P0315,Renata Nascimento Marques,14/09/1999,NÃ£o,Sim,24/09/2025,12/09/2026,142,128,NÃ£o
+P0316,Marcos Machado Vieira,10/26/1961,NÃ£o,Sim,16/08/2023,04/11/2023,100,70,Sim
+P0317,DÃ©bora Rocha Ramos,15/01/1969,NÃ£o,Sim,05/04/2023,05/04/2024,189,160,Sim
+P0318,JoÃ£o Carvalho Vieira,04/02/1973,S,NÃ£o,24/03/2024,07/11/2024,200,161,Sim
+0319,Aline Oliveira Ramos,1 de janeiro de 1982,Sim,NÃ£o,08/07/2024,24/01/2025,151,117,NÃ£o
+P-0320,Gabriel Teixeira Alves,28/06/1970,NÃ£o,Sim,10/07/2024,16/10/2024,157,144,Sim
+P0321,JoÃ£o Cardoso Dias,27-12-1948,Sim,NÃ£o,25/02/2023,21/01/2024,205,180,NÃ£o
+P0322,marcelo souza lopes,28/12/1973,NÃ£o,NÃ£o,11/08/2024,16/04/2025,194,167,sim
+P0323,Daniela Dias Freitas,23/06/1951,Sim,NÃ£o,18/04/2023,25/12/2023,183,151,Sim
+P0324,Lucas Marques Freitas,11/12/1973,NÃ£o,Sim,14/01/2023,03/09/2023,104,70,nao
+P0325,Marcelo Mendes Souza,27/12/1959,Sim,NÃ£o,23/05/2025,12/05/2026,151,131,NÃ£o
+P0326,Felipe Nunes Barbosa,18/06/1989,Sim,NÃ£o,30/08/2025,03/06/2026,193,"180,4",NÃ£o
+P0327,Gabriel Vieira Lima,26/07/1984,Sim,NÃ£o,13/01/2025,30/09/2025,146,6.4,Yes
+P0328,Roberto Marques Oliveira,1954-04-13,Sim,NÃ£o,07/11/2023,12/11/2024,158,6.6,Sim
+P329,"Rocha, ClÃ¡udia Cavalcante",06/11/1996,Sim,NÃ£o,05/04/2023,16/10/2023,138,101,Sim
+P0330,Marcos Ramos AraÃºjo,10/05/1973,Sim,NÃ£o,16/12/2023,24/04/2024,158,24,NÃ£o
+0331,Aline Teixeira Martins,28/04/2018,Sim,NÃ£o,11/02/2025,25/02/2026,208,172,NÃ£o
+P0332,Pedro Rodrigues Mendes,06/08/2028,NÃ£o,Sim,24/01/2023,4 de junho de 2023,218,196,S
+P0333,Fernanda Ferreira Marques,22/06/1954,Sim,NÃ£o,21/06/2024,23/03/2025,155,88,Sim
+P0334,DÃ©bora Rocha Moreira,26/05/1970,NÃ£o,Sim,08/05/2025,22/09/2025,200,176,NÃ£o
+P335,Marcos Rocha Teixeira,18/06/1977,Sim,NÃ£o,22/10/2023,26/02/2024,166,130,Sim
+P0336,Ttaiana Ribeiro Dias,20/12/1986,NÃ£o,Sim,20/02/2025,21/09/2025,157,152,NÃ£o
+ P0337 ,Larissa Rodrigues Carvalho,17/05/1972,Sim,Sim,24/09/2024,07/09/2025,136,100,NÃ£o
+P0338,Cmaila Nunes Freitas,23/10/1988,NÃ£o,Sim,14/04/2023,16/01/2024,120,"77,5",Sim
+P0339,Bruno Machado Barbosa,14.11.1985,Sim,Sim,10/03/2025,03/02/2026,113,70,Sim
+P0340,Mariana Santos Machado,08/05/1999,sim,NÃ£o,6 de setembro de 2025,11/04/2025,174,145,N
+P0341,DÃ©bora Gomes Fernandes,24/01/1991,Sim,NÃ£o,17/08/2025,31/03/2026,874,115,NÃ£o
+0342,Nathalia Lopes Santos,05/07/2028,nÃ£o,Sim,06/08/2024,19/11/2024,181,141,Sim
+P0343,rodrigo vieira vieira,01/07/1965,NÃ£o,Sim,23/12/2025,06/09/2026,13,144,Sim
+P0344,MÃ¡rcia Moreira Fernandes,02/09/1975,Sim,NÃ£o,09/11/2025,27/06/2025,193,154,Sim
+P0345,Marcelo Alves Fernandes,08/11/1968,Sim,NÃ£o,16/01/2023,03/06/2023,154,95,Sim
+P0346,Paulo Alves Cardoso,08/02/1997,NÃ£o,Sim,25/01/2023,01/10/2023,146,95,SIM
+ P0347 ,Ana Vieira Costa,23/03/2001,Sim,NÃ£o,11/05/2025,09/04/2026,9.2,120,Sim
+P0348,Marcelo Pereira Lima,04/04/1968,Sim,NÃ£o,26/11/2024,26.09.2025,131,"105,2",NÃ£o
+P0349,Yasmin Soares Teixeira,17/09/1973,nÃ£o,Sim,13/04/2023,2023-09-10,"125,8",101,NÃ£o 
+P0350,Henrique Marques Soares,10/12/1947,NÃ£o,Sim,27/11/2025,05/08/2026,122,636,NÃ£o
+P0351,camila oliveira freitas,1965-03-19,NÃ£o,Sim,24.06.2023,25/06/2024,164,122,Sim
+P0352,LetÃ­cia Nascimento Fernandes,06/12/1976,Yes,Sim,07/04/2025,24/11/2025,151,109,NÃ£o
+P0353,Sandra Ferreira Nascimento,02/11/1984,Sim,NÃ£o,27/05/2024,19/04/2025,196,141,Yes
+ P0354 ,Francisca Martins Pereira,27/02/1900,NÃ£o,NÃ£o,08.05.2024,22/11/2024,144,114,Sim
+P0355,Maria Fernandes Souza,05/10/1998,NÃ£o,Sim,26/08/2023,05/03/2024,201,184,NÃ£o
+P0356,Paulo Ribeiro Fernandes,21/09/1945,1,NÃ£o,10/08/2025,24/02/2026,100,70,Sim
+p0357,Yasmin Oliveira Carvalho,10/03/1956,NÃƒO,Sim,10/10/2025,06/01/2026,142,102,Sim
+P0358,Lucas Oliveira Lopes,31/07/1955,Sim,NÃ£o,2023-06-20,13/06/2024,204,141,Sim
+P0359,CAMILA COSTA ARAÃšJO,09/10/2001,NÃ£o,Sim,22/12/2025,22/09/2026,175,117,Sim
+ P0360 ,Roberto Lima Cardoso,28/04/1943,Sim,Sim,07/10/24,21.05.2025,100,70,Sim
+P0361,Orlando Dias Silva,06/28/1984,Sim,NÃ£o,2023-12-24,09-12-2024,198,160,NÃ£o
+P0362,Lucas Carvalho Rodrigues,06/11/1984,NÃ£o,Sim,09/04/2023,07/03/2023,234,199,Sim
+P363,Rodrigo Alves Marques,11/07/1999,Sim,NÃ£o,11/02/2024,2024-06-10,140,104,Sim
+P0364,ANA CARVALHO SOARES,14/08/2000,Sim,NÃ£o,17/03/2024,29/05/2024,191,151,Sim
+P0365,Felipe Mendes Almeida,21/03/1972,NÃ£o,Sim,26/08/2024,28/05/2025,200,144,Sim
+P0366,  Thiago  Cardoso Ribeiro ,11/03/1978,Sim,NÃ£o,07/04/2023,23/07/2023,118,70,Sim
+P0367,NatÃ¡lia Fernandes Soares,08/02/1978,NÃ£o,Sim,28/07/2023,21/12/2023,143 mg/dL,127,NÃ£o
+P0368,Rodrigo Souza AraÃºjo,21/08/1947,Sim ,NÃ£o,03/03/2025,30/07/2025,169,118,Sim
+P369,Ricardo Dias Rocha,02/04/1963,NÃ£o,Sim,28/05/2025,09-08-2025,257,"230,6",nÃ£o
+p0370,Walter Gomes Ribeiro,29/11/1997,Sim,NÃ£o,19/01/2024,04/08/2024,100,70,Sim
+P0371,Francisca Soares Almeida,24-07-1963,Sim,NÃ£o,25/10/2024,30/04/2025,174,128,SIM
+P0372,DÃ©bora Barbosa Alves,27/08/1952,NÃ£o,Sim,11/03/2024,31/07/2024,173,159,NÃ£o
+P373,Sandra Dias Martins,13/07/1998,Sim,Sim,23/12/2025,05/05/2026,168,128,Sim
+P0374,Camila Ramos Cardoso,08/12/1966,NÃ£o,Sim,24/10/2025,02/07/2026,189,8.1,Sim
+P-0375,Fernanda Lima Costa,05/05/1985,Sim,NÃ£o,20/04/2023,08/02/2024,176,141,N
+P0376,VinÃ­cius Rocha Costa,15/05/1960,NÃ£o,Sim,26/01/2024,17/09/2024,172 mg/dL,159,NÃ£o
+P0377,Yasmin Fernandes Mendes,07/10/1992,Sim ,Sim,18/09/2024,18/05/2025,181,121,Sim
+P0378,Nathalia Santos Teixeira,27/10/1967,Sim,NÃ£o,07/06/2025,12/01/2026,199,173,NÃ£o
+P0379,Henrique Carvalho Ribeiro,18/02/1941,Sim,NÃ£o,04/02/2025,26/02/2026,169,120,Sim
+P0380,Felpie AraÃºjo Marques,03/02/1948,Sim,NÃ£o,24/06/2024,11/09/2024,168,136,NÃ£o
+P0381,Luiz Moreira Souza,24/01/1977,Sim,NÃ£o,13/10/2023,12/07/2024,163,141,NÃ£o
+P0382,PATRÃCIA ALVES MOREIRA,08/07/1948,NÃ£o,1,24/10/2024,14/10/2025,227,194,Sim
+P0383,JosÃ© Machado Santos,28/03/2017,Sim,NÃ£o,24/03/2024,08/09/2024,191,140,Sim
+P0384,Roberto Barbosa Rocha,09/10/1991,n,Sim,19/09/2025,07/01/2026,135,109,NÃ£o
+P0385,Gabriel Almeida Silva,08/06/1989,Sim,NÃ£o,02/06/2024,13-11-2024,161,123,Sim
+P0386,Roberto Moreira Dias,06/08/1996,NÃ£o,Sim,20/09/2025,21/11/2025,240,"199,1",Sim
+P0387,Fernanda Silva Alves,01/06/1958,NÃ£o ,Sim,09-08-2023,14/03/2024,"179,5",144,Sim
+P0388,Bruno Souza Rodrigues,08/01/2020,NÃ£o,Sim,02/05/2024,01/06/2025,217,181,sim
+P0389,PatrÃ­cia Martins Nunes,29/12/1989,NÃ£o,Sim,16/03/2025,21/10/2025,182,-81,NÃ£o
+P0390,ClÃ¡udia Nunes Rodrigues,25/02/1962,NÃ£o,1,22/11/2023,01/02/2024,122,76,Sim
+P0391,Leandro Soares Pereira,01/10/1999,Sim,NÃ£o,18/10/2024,28/08/2025,153,100,Sim
+P0392,Sandra Machado Ramos,11/05/79,Sim,nÃ£o,21/04/2024,09/11/2024,166,125,NÃ£o
+P0393,Maria Costa Carvalho,01/03/1991,NÃ£o,Sim,15/12/2024,2025-03-23,8.2,133,NÃ£o
+P0394,Eduardo Barbosa Vieira,25/12/1977,Sim,NÃ£o,06/02/2024,18/07/2024,120,100,NÃ£o
+P0395,LetÃ­cia Santos Lopes,22/08/1944,Sim,nao,19/09/2024,18/01/2025,100,71,NÃ£o
+P0396,Bruno Ramos Costa,21/04/1941,NÃ£o,Sim,10/09/2023,23/11/2023,21,166,Sim
+P0397,Juliana Ramos Silva,10/01/1958,NÃ£o,sim,25/09/2024,06/06/2025,182,176,NÃ£o
+P0398,DÃ©bora AraÃºjo Machado,01/09/2020,n,Sim,20-06-2023,26/01/2024,204,-132,Sim
+P0399,Rafael Marques Martins,09/03/1970,Sim,NÃ£o,13/01/2024,22/10/2024,-130,70,Sim
+P0400,Juliana Alves Rocha,16/12/1966,Sim,nÃ£o,30/08/2025,18/12/2025,10.9,1328,NÃ£o
+P0401,Marcelo Barbosa Nunes,09/12/2016,Sim,Sim,23/08/2023,2023-11-08,203,147,Sim
+P0402,Daniela Dias Cavalcante,08/07/1988,NÃ£o,Sim,19/12/2024,02/04/2025,590,90,Sim
+P403,Fernanda Rocha Soares,17/11/2000,NÃ£o,Sim,05/05/2024,11/12/2024,197,"150,8",Sim
+P0404,Eduardo Gomes Dias,20/03/1985,Sim,Sim,29/05/2024,25/11/2024,177,136,NÃ£o
+P0405,"Moreira, AntÃ´nio Cardoso",22.08.1998,NÃ£o,Sim,05/31/2024,22.10.2024,223,176,Sim
+P0406,Felipe Ferreira Rodrigues,08/07/1995,nao,Sim,24/03/2025,14/09/2025,944,189,N
+P0407,Paulo Freitas Lima,22/11/1995,NÃ£o ,S,14/09/2024,26/01/2025,200,180,Sim
+P0408,Camila Martins Andrade,12/03/1963,Sim,NÃ£o,01/05/25,02/10/2025,930,138,Sim
+P0409,Gabriel Martins Mendes,05/12/1962,Sim,NÃ£o,06/10/2023,09/07/2024,151,110,Sim
+P-0410,Juliana Dias Martins,08/12/1988,N,Sim,25/08/2023,05/04/2024,208,178,Sim
+P0411,Daniela Machado Fernandes,19-07-2001,Sim,N,4 de dezembro de 2023,10/11/2024,152,112,N
+P0412,Helena Cardoso Almeida,26/03/1962,N,Sim,05/06/2025,08/03/2026,129,106,Sim
+P0413,juliana gomes costa,28/01/1943,Sim,NÃƒO,12/11/2023,17/11/2024,156,129,NÃ£o
+P0414,AntÃ´nio Cardoso AraÃºjo,01/05/1973,Sim,NÃ£o,23/08/2024,15-01-2025,228,181,Sim
+P0415,Larissa Freitas Teixeira,01/03/2029,NÃ£o,Sim,26/08/2025,28/02/2026,-103,175,NÃ£o
+p0416,Carlos Santos Oliveira,11/04/1999,Sim,NÃ£o,12/07/2025,12/11/2025,192,169,0
+0417,Tatiana AraÃºjo Martins,21/12/1971,N,Sim,04/04/2023,09/11/2023,100,70,Sim
+P0418,Larissa Gomes Nascimento,19.08.1951,Sim,NÃ£o,06/05/2025,07/04/2026,165,126,Sim
+P0419,Luiz Cavalcante Soares,01/12/1969,Sim,NÃ£o,23/06/2023,28/08/2023,155,109,S
+P0420,Luiz Rodrigues Ramos,07/02/1944,Sim,NÃ£o,13/05/2023,31/10/2023,171,133 mg/dL,Sim
+P0421,Camila Lima Ramos,30/12/1995,sim,Sim,25.02.2023,01/08/2023,147,"116,3",Sim
+P0422,Bruno Mendes Nunes,11/11/1959,Sim,NÃ£o,17/08/2025,22-04-2026,193,175,NÃ£o
+P0423,MÃ¡rcia Cardoso Silva,27/04/1953,NÃ£o,Sim,02.11.2023,20/05/2024,186,148,NÃ£o
+P0424,"Carvalho, Marcos Teixeira",13/12/1966,NÃ£o,Sim,07/08/2025,29/06/2026,151,112,NÃ£o
+P0425,AntÃ´nio Alves Nascimento,09/07/1964,Sim,NÃ£o,13-01-2024,25/10/2024,184,148,nao
+P0426,JoÃ£o Andrade Almeida,19/09/1979,Sim,NÃ£o,21/06/2024,30/08/2024,175,145,NÃ£o
+P0427,Nathalia Vieira Vieira,09/01/1945,NÃ£o,NÃ£o,14/10/2025,05/05/2026,183,132,Sim
+P0428,Liuz Rodrigues Rocha,15 de fevereiro de 1942,NÃ£o,Sim,08/10/2024,13/12/2024,148,114,Sim
+P0429,LetÃ­cia Freitas Marques,29/12/1969,NÃ£o,Yes,2023-03-17,2 de julho de 2023,151,114,Sim
+P0430,Burno Gomes Marques,06/03/1995,NÃ£o,Sim,31/08/2023,30/05/2024,18,145,NÃ£o
+P0431,Ricardo Cavalcante Lopes,10/06/1992,nao,Yes,08/06/2025,07/01/2026,193,182,nao
+p0432,Fernanda Cavalcante Rocha,27/07/1996,NÃ£o,sim,09/01/2024,2025-01-24,145,113,NÃ£o
+P0433,Rodrigo Souza Costa,1979-01-12,Sim,NÃ£o,19/05/2024,23/09/2024,149,111,Sim
+P0434,Rodrigo Moreira Souza,22/01/1965,NÃ£o,Sim,15/02/2025,23/08/2025,193,157,NÃ£o
+P0435,Rodrgio Mendes Nascimento,17/02/1890,Sim,NÃ£o,29.08.2025,15/03/2026,187,7.3,SIM
+P0436,Bruno Almeida Gomes,19/07/1953,NÃ£o,Sim,09/05/2025,22/01/2025,210,178,NÃ£o
+P-0437,Ricardo Almeida Nascimento,12/05/1942,NÃ£o,Sim,23/08/2025,16/01/26,144,6.8,NÃ£o
+P0438,Henrique Martins Andrade,21/05/1971,NÃ£o,Sim,25/09/2024,15/03/2025,161,130,Yes
+P0439,Yasmin Oliveira Ribeiro,10/10/1951,Sim,NÃ£o,14/10/2025,25/08/2026,134,102,0
+P0440,Aline Nunes Andrade,11/12/1972,Sim,NÃ£o,18/12/2023,09/05/2024,-70,95,NÃ£o
+0441,Mariana Ferreira AraÃºjo,03/12/1979,NÃ£o,S,18/10/2025,28/12/2025,193,146,Sim
+P0442,JsoÃ© Gomes Martins,11/11/1957,NÃ£o,Sim,16/10/2024,2025-02-06,142,95,Sim
+P0443,Eduardo Moreira Dias,16/12/1996,NÃ£o,Sim,14 de abril de 2023,25/07/2023,183,150,NÃ£o
+P0444,Nathalia Ferreira Pereira,15/12/1990,Sim,NÃ£o,11/05/2023,09/10/2023,157,113,Sim
+ P0445 ,Aline Lopes Alves,23/03/2030,Sim,NÃ£o,06/02/2025,02/12/2025,137,93,Sim
+p0446,JosÃ© Souza Moreira,14/07/1978,Sim,NÃ£o,12/02/2024,17/08/2024,164,132,NÃ£o
+P0447,Beatriz Mendes Costa,02.02.1944,Yes,NÃ£o,27/09/2023,01/04/2024,171,128,Sim
+P0448,Thiago Vieira Santos,18/04/1982,S,NÃ£o,29/06/2025,06/06/2026,"128,6",98,nÃ£o
+P-0449,  Isabela  Rocha Mendes ,21/10/1952,Sim,NÃ£o,01/10/2025,17/03/2026,197,140,Sim
+P0450,Maria Rodrigues Martins,30/04/1964,Sim,NÃ£o,29/12/2024,04/11/2025,131,"80,6",Sim
+P0451,JosÃ© Moreira Cardoso,22/05/1979,NÃ£o ,Sim,18/12/2024,08/10/2025,175,140,Sim
+P0452,JoÃ£o Souza Martins,10/10/1967,NÃƒO,Sim,2025-07-26,2 de maio de 2026,9,163,NÃ£o
+P0453,Vera Pereira Nascimento,28/07/1948,Sim,NÃ£o,15-10-2024,27/12/2024,-132,"180,4",NÃ£o
+P0454,Lucas Moreira Gomes,06/02/1966,Sim,nao,25/04/2025,15/01/2026,26,94,Sim
+P0455,Walter Machado Cardoso,04/08/1955,NÃ£o,Sim,23/03/2023,28/10/2023,132,93 mg/dL,Sim
+P0456,Tatiana Silva Carvalho,08/11/1991,NÃ£o,Sim,04-10-2025,18/02/2026,192,"153,7",Sim
+P0457,VinÃ­cius Cardoso Lopes,14/10/1979,N,Sim,03/12/2025,25/12/2026,167,143,NÃ£o
+P0458,Juliana Cardoso Cardoso,06/10/1952,Sim,NÃ£o,09/01/2024,17/05/2024,168,145,NÃ£o
+P0459,Ana Martins Dias,08/02/1948,Sim,NÃ£o,17/04/2023,15/02/2023,"144,3",89,Sim
+0460,Daniela Lima Santos,06/11/1988,Sim,NÃ£o,06/15/2023,17/07/2024,179,134,Sim
+P0461,Ana Machado Nascimento,30/03/1962,NÃ£o,Sim,20/09/2023,18/08/2024,140,100,Sim
+P0462,Lucas Alves Andrade,15/04/1953,n,Sim,02/05/2024,08/12/2024,167,152,NÃ£o
+P0463,Ricardo Souza Nunes,01/07/1992,NÃ£o,Sim,13/07/2024,10/10/2024,150,110,Sim
+P0464,Sandra Alves Mendes,1977-09-20,Sim ,nao,01/02/25,04/07/2025,154,"138,1",N
+P0465,VinÃ­cius Alves Ramos,19/12/1998,Sim ,NÃ£o,2023-05-27,08-09-2023,104 mg/dL,73,NÃ£o
+P0466,Camila Alves Pereira,07/08/1972,Sim,NÃ£o,21/07/2023,03/12/2023,114,71,NÃ£o
+P0467,Nathalia Soares Marques,21/06/1969,NÃ£o,Sim,05/04/2024,08/03/2025,258,241,NÃ£o
+P0468,Bruno Lima Lima,23/12/2017,NÃ£o,Yes,25/08/2025,08/06/2026,151,110 mg/dL,Sim
+P0469,Daniela Soares Gomes,01/03/1945,Sim,NÃ£o,20/03/2023,07/11/2023,155,-138,Sim 
+P0470,pedro rodrigues pereira,18/05/2016,Sim,NÃ£o,24/12/2024,07/10/2025,143,89,Sim
+P0471,Rafael Nascimento Barbosa,01/10/56,Sim,NÃ£o,17-01-2023,13/12/2023,183,143,Sim
+P0472,NatÃ¡lia Lopes Lima,10/11/1960,Sim,NÃ£o,14/02/2025,2025-12-15,103,35,Sim
+P0473,Roberto Oliveira Alves,28/06/1988,Sim,NÃ£o,12/10/2024,07/10/2025,216,183,Sim
+P0474,Nathalia Fernandes Souza,07/12/1941,NÃ£o,Sim,08/08/2024,01/08/2025,218,186,Sim
+P0475,  LetÃ­cia  Teixeira Freitas ,04/12/1978,Sim,NÃ£o,15/04/2024,22/02/2024,227,178,SIM
+P0476,Sandra Fernandes Freitas,28/05/1999,NÃ£o,Sim,14/09/2023,03/08/2024,161,141,NÃ£o
+P0477,Nathalia Gomes Rocha,03/10/1978,Sim,NÃ£o,02/02/2023,15/12/2023,115,79,Sim
+P0478,AntÃ´nio Pereira Dias,27/11/1958,nÃ£o,Sim,18/07/2025,28/01/2026,6.7,4.7,Sim
+P0479,PatrÃ­cia Cardoso Ferreira,22/02/1943,Sim,Sim,27/04/2024,27/09/2024,105,70,Sim
+P0480,VinÃ­cius Nunes Soares,05/04/1997,Sim,NÃƒO,26/12/2023,30/09/2024,214,173,Yes
+P0481,Marcelo Santos Moreira,25/06/1941,NÃ£o,Sim,26/01/2023,02/08/2023,215,187,N
+P0482,CAMILA LIMA ROCHA,25/11/1986,Sim,0,22/10/2024,24/06/2024,177,142 mg/dL,Sim
+P0483,Felipe Almeida Vieira,12/10/1952,NÃ£o,Sim,18/02/2025,07/12/2025,145,117,NÃ£o
+P0484,gabriel dias oliveira,10/02/1999,Sim,NÃ£o,09/05/2023,30/01/2024,148,"134,5",NÃ£o
+P0485,LetÃ­cia Santos Teixeira,14/05/1992,1,NÃ£o,03/11/2025,12/09/2026,193,159,NÃ£o
+P0486,Eduardo Marques Oliveira,20/03/1972,s,NÃ£o,01/11/2023,02/07/2024,151,111,Sim 
+P0487,NatÃ¡lia Oliveira Gomes,28/07/1976,NÃ£o,Sim,17/06/2024,25/12/2024,136,97,NÃ£o
+P0488,Lucas Barbosa Nascimento,30/06/1940,NÃƒO,Sim,06/06/2024,03/06/2025,191,167,NÃƒO
+P0489,LetÃ­cia Martins Costa,10/12/1985,NÃ£o,Sim,28/12/2023,06/10/2024,131,5.6,NÃ£o
+P0490,Eduardo Freitas Ramos,21/04/1996,Sim,NÃ£o,17/08/2023,14/12/2023,167,127,Sim
+P0491,Rodrigo Oliveira Machado,09/20/1971,NÃ£o,Sim,11/06/2024,10/02/2024,169,142,NÃ£o
+P0492,Aline Teixeira Nunes,01/08/1994,Sim,NÃ£o,16/03/2024,18/01/2025,7.2,96,NÃ£o
+P0493,Henrique Lima Fernandes,19/02/1983,Sim,NÃ£o,2025-08-18,11/12/2025,183,158,NÃ£o
+P0494,JosÃ© Lopes Pereira,27/11/1949,S,NÃ£o,16/03/2023,18/10/2023,205,166,NÃ£o
+0495,SÃ©rgio Machado Pereira,12/02/1998,NÃ£o,Sim,14/03/2025,16/10/2025,"190,2",169,Sim
+P0496,Yasmin Ferreira Dias,07/07/1958,Sim,NÃ£o,09/11/2023,02/09/2024,140,6.2,NÃ£o
+P0497,Rodrigo Teixeira Machado,09/06/1945,nÃ£o,Sim,05/06/24,25/02/2025,199,163,NÃ£o
+P-0498,juliana alves araÃºjo,16/10/1999,Sim,Sim,06/11/2025,01/08/2026,209,160,Sim
+P0499,Lucas Vieira Machado,04/08/1972,s,NÃ£o,03/08/2025,29/08/2026,45,30,NÃ£o
+P0500,Vera Pereira Ribeiro,02/02/1972,NÃ£o,S,23/04/24,30/03/2025,222,204,NÃ£o
