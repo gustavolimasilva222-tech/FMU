@@ -1,0 +1,8 @@
+.config/
+sample_data/
+*.pdf
+*.png
+*.html
+*.txt
+downloads/
+__pycache__/
