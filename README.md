@@ -1,42 +1,42 @@
-# 👑 SIAG - System Imperial Analytics & Glycemia (Michael Kaiser Theme)
+# 👑 Imperial Health Analytics - Predictive & Public Health Dashboard (Michael Kaiser Theme)
 
-> **Iniciativa:** FMU Tech Inovação · 1ª Edição 2026.2 (ODS 3 - Saúde e Bem-Estar)
+> **Iniciativa:** FMU Tech Inovação · 1ª Edição 2026.2 (ODS 3 - Saúde e Bem-Estar)  
 > **Autor:** Gustavo Lima Silva (`gustavo.lima.silva222@gmail.com`)
 
 ---
 
 ## 1. 🎯 Descrição do Problema
-* **Desafio de Saúde e Bem-Estar (ODS 3):** Dificuldade e lentidão na identificação de anomalias, limpeza de inconsistências e análise estatística de dados de glicemia, comprometendo a tomada de decisão médica imediata.
-* **Público e Contexto:** Profissionais de saúde, investigadores e clínicas médicas que exigem precisão cirúrgica e domínio total sobre os dados de tratamento dos pacientes.
-* **Bases de Dados Públicas:** Registo clínico de glicemia contendo medições pré e pós-tratamento, histórico de adesão à dieta e administração medicamentosa.
-* **Título do Projeto:** *SIAG - System Imperial Analytics & Glycemia*.
+- **Desafio de Saúde e Bem-Estar (ODS 3):** Dificuldade no monitoramento epidemiológico preditivo e atrasos no diagnóstico precoce de doenças crônicas, resultando em sobrecarga do sistema de saúde pública e tomadas de decisão reativas.
+- **Público e Contexto:** Gestores de saúde pública, equipes epidemiológicas e profissionais de saúde que necessitam de previsões precisas e dashboards interativos para alocação eficiente de recursos e intervenção preventiva.
+- **Bases de Dados Públicas:** Microdados abertos do DATASUS (SISTAG, SIM/SINASC e dados de vigilância epidemiológica nacional).
+- **Título do Projeto:** *Imperial Health Analytics - Painel Preditivo de Indicadores Epidemiológicos*.
 
 ---
 
 ## 2. ⚡ Proposta de Solução Tecnológica
-* **Abordagem:** Pipeline em Python desenhado para a extração, higienização rigorosa de anomalias glicémicas, processamento estatístico avançado (testes t emparelhados e independentes) e geração automática de relatórios executivos em PDF no padrão ABNT.
-* **Tecnologias Utilizadas:** Python 3.x, Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Seaborn, Weasyprint.
-* **Justificativa Técnica:** Garantia de alta performance no processamento de dados tabulares estruturados, assegurando reprodutibilidade absoluta e relatórios clínicos simplificados e sem jargões.
+- **Abordagem:** Pipeline de análise de dados e Machine Learning em Python para extração de dados públicos do DATASUS, modelagem preditiva de risco epidemiológico e construção de dashboards estatísticos interativos voltados à gestão em saúde.
+- **Tecnologias Utilizadas:** Python 3.x, Pandas, NumPy, Scikit-Learn, SciPy, Matplotlib, Seaborn, Streamlit / Plotly.
+- **Justificativa Técnica:** Garantia de processamento eficiente de grandes volumes de dados de saúde pública, entregando acurácia analítica, identificação de padrões de risco e relatórios estatísticos simplificados.
 
 ---
 
 ## 3. 🎨 Identidade Visual (Inspirada em Michael Kaiser - Blue Lock)
-* **Conceito Visual:** Inspirado na estética do "Prodígio Imperial" (Michael Kaiser - Bastard München), combinando a elegância do azul profundo com a vivacidade do cyan elétrico e detalhes em dourado e rosa imperial.
-* **Paleta de Cores:**
-  * 💙 **Kaiser Cyan / Aura:** `#00B4D8` (Cor complementar e de destaque)
-  * 🖤 **Bastard Navy / Base:** `#0A1128` (Fundo e tipografia principal)
-  * 👑 **Imperial Gold / Acento:** `#FFD700` (Símbolos de destaque e badges)
-  * 🌹 **Rose Tattoo / Impacto:** `#E63946` (Alertas e pontos críticos de análise)
-* **Tipografia:** Arial e Times New Roman (Alinhamento formal e académico ABNT).
+- **Conceito Visual:** Inspirado no soberano do campo "Michael Kaiser" (Bastard München), utilizando uma paleta dominante de **Azul, Preto e Dourado** para representar autoridade, precisão cirúrgica e excelência analítica.
+- **Paleta de Cores:**
+  * 💙 **Kaiser Imperial Blue:** `#00B4D8` / `#1D3557` (Cor principal de destaque e fluxo de dados)
+  * 🖤 **Bastard Obsidian Black:** `#05050A` / `#0A1128` (Fundo e estrutura base)
+  * 👑 **Imperial Gold:** `#FFD700` (Insígnias, badges e métricas de alto impacto)
+  * 🤍 **Pure White:** `#FFFFFF` (Contrastes e tipografia de leitura)
+- **Tipografia:** Arial / Times New Roman (Alinhamento acadêmico e técnico ABNT).
 
 ---
 
 ## 4. 🚀 Pitch Inicial
-O **SIAG** traz a precisão do "Impacto Imperial" para a análise de dados clínicos. Ao automatizar a deteção de erros em exames de glicemia e traduzir dados estatísticos complexos em relatórios visuais e diretos em segundos, o sistema elimina a margem de erro na interpretação de tratamentos, elevando o nível (Level Up) do acompanhamento de saúde.
+O **Imperial Health Analytics** eleva a gestão epidemiológica pública ao nível *Level Up*. Ao integrar ciência de dados preditiva e dashboards de alta precisão com visualização imediata, o sistema substitui a intuição por dados concretos, capacitando gestores a prever surtos e otimizar recursos hospitalares com eficiência imperial.
 
 ---
 
-## 5. 👥 Equipa e Responsáveis
-* **Integrante:** Gustavo Lima Silva
-* **E-mail:** `gustavo.lima.silva222@gmail.com`
-* **GitHub:** [@gustavolimasilva222-tech](https://github.com/gustavolimasilva222-tech)
+## 5. 👥 Equipe e Responsáveis
+- **Integrante:** Gustavo Lima Silva
+- **E-mail:** `gustavo.lima.silva222@gmail.com`
+- **GitHub:** [@gustavolimasilva222-tech](https://github.com/gustavolimasilva222-tech)
