@@ -7,19 +7,19 @@
 
 ## 1. 📌 Descrição do Problema, Público e Contexto
 - **Problema de Saúde e Bem-Estar (ODS 3):** Dificuldade no monitoramento epidemiológico preditivo e atrasos na identificação precoce de anomalias em indicadores de saúde pública, gerando sobrecarga hospitalar e tomadas de decisão reativas.
-- **Público e Contexto:** Gestores de saúde pública, equipes epidemiológicas e profissionais de saúde que necessitam de previsões analíticas rigorosas e dashboards dinâmicos para intervenções preventivas ágeis.
+- **Público e Contexto:** Gestores de saúde pública, equipas epidemiológicas e profissionais de saúde que necessitam de previsões analíticas rigorosas e painéis dinâmicos para intervenções preventivas ágeis.
 - **Bases de Dados Públicas Utilizadas:** Microdados abertos do DATASUS (SISTAG, SIM/SINASC e bases de vigilância epidemiológica nacional).
 - **Título do Projeto:** *Imperial Health Analytics - Painel Preditivo de Indicadores Epidemiológicos*.
 
 ---
 
-## 2. ⚡ Proposta de Solução Tecnológica
+## 2. ⚡ Proposta de Solução Tecnológica & Justificativa
 - **Abordagem e Funcionamento:** Pipeline analítico em Python para extração de dados públicos, higienização rigorosa, modelagem estatística preditiva de risco epidemiológico e disponibilização de painéis de visualização interativa.
 - **Tecnologias Implementadas:** 
-  - **Linguagem:** Python 3.x
+  - **Linguagem Principal:** Python 3.x
   - **Bibliotecas / Frameworks:** Pandas, NumPy, Scikit-Learn, SciPy, Matplotlib, Seaborn
   - **Plataforma e Versionamento:** GitHub, Google Colab
-- **Justificativa Técnica:** Escolha fundamentada na alta performance do ecossistema Python para tratamento massivo de dados tabulares de saúde, garantindo reprodutibilidade, escalabilidade e rigor estatístico.
+- **Justificativa Técnica:** Escolha fundamentada na alta performance do ecossistema Python para tratamento massivo de dados tabulares de saúde, garantindo reprodutibilidade absoluta, escalabilidade e rigor estatístico.
 
 ---
 
@@ -29,7 +29,7 @@
   * 💙 **Imperial Blue:** `#00B4D8` / `#1D3557` (Cor principal para fluxos e destaque estrutural)
   * 🖤 **Obsidian Black:** `#05050A` / `#0A1128` (Fundo e tipografia base)
   * 👑 **Gold Accent:** `#FFD700` (Insígnias, badges e métricas de alto impacto analítico)
-  * 🤍 **Pure White:** `#FFFFFF` (Contraste e legibilidade em conformidade com normas)
+  * 🤍 **Pure White:** `#FFFFFF` (Contraste e legibilidade em conformidade com as normas)
 - **Tipografia Restrita:** Arial / Times New Roman (Alinhamento formal acadêmico e padrão ABNT).
 
 ---
