@@ -1,23 +1,42 @@
-# Projeto: Sistema Inteligente de Análise Glicémica (SIAG)
+# 👑 SIAG - System Imperial Analytics & Glycemia (Michael Kaiser Theme)
 
-## 1. Descrição do Problema
-* **Problema de Saúde e Bem-Estar (ODS 3):** Dificuldade no monitoramento, limpeza de inconsistências e avaliação estatística eficiente de dados glicémicos em pacientes, impactando a tomada de decisão clínica.
-* **Público e Contexto:** Profissionais de saúde, investigadores e pacientes crónicos que necessitam de auditoria rápida e automatizada de dados de tratamentos.
-* **Bases de Dados Públicas:** Base de dados clínica de glicemia contendo registos de níveis iniciais, finais, adesão à dieta e tipos de medicamentos.
-* **Título do Projeto:** Sistema Inteligente de Análise Glicémica (SIAG).
+> **Iniciativa:** FMU Tech Inovação · 1ª Edição 2026.2 (ODS 3 - Saúde e Bem-Estar)
+> **Autor:** Gustavo Lima Silva (`gustavo.lima.silva222@gmail.com`)
 
-## 2. Proposta de Solução Tecnológica
-* **Abordagem:** Desenvolvimento de um pipeline em Python para pré-processamento de dados, remoção de valores anómalos, aplicação de testes estatísticos (teste t, ANOVA) e geração automatizada de relatórios em PDF.
-* **Tecnologias Utilizadas:** Python, Pandas, NumPy, Scipy, Statsmodels, Matplotlib, Seaborn, Weasyprint.
-* **Justificativa Técnica:** A escolha destas ferramentas garante alta performance no tratamento de dados tabulares estruturados, reprodutibilidade analítica e conformidade documental.
+---
 
-## 3. Identidade Visual Inicial
-* **Logo:** Símbolo minimalista combinando elementos de saúde e análise de dados.
-* **Paleta de Cores:** Azul Corporativo (`#004080`), Verde Saúde (`#2ecc71`) e Cinza Neutro (`#f8f9fa`).
-* **Tipografia:** Arial e Times New Roman (padrão formal e académico).
+## 1. 🎯 Descrição do Problema
+* **Desafio de Saúde e Bem-Estar (ODS 3):** Dificuldade e lentidão na identificação de anomalias, limpeza de inconsistências e análise estatística de dados de glicemia, comprometendo a tomada de decisão médica imediata.
+* **Público e Contexto:** Profissionais de saúde, investigadores e clínicas médicas que exigem precisão cirúrgica e domínio total sobre os dados de tratamento dos pacientes.
+* **Bases de Dados Públicas:** Registo clínico de glicemia contendo medições pré e pós-tratamento, histórico de adesão à dieta e administração medicamentosa.
+* **Título do Projeto:** *SIAG - System Imperial Analytics & Glycemia*.
 
-## 4. Pitch Inicial
-O SIAG revoluciona o acompanhamento clínico ao automatizar a deteção de erros em dados de glicemia e a emissão de relatórios executivos em segundos. O nosso diferencial reside na capacidade de unir rigor estatístico a uma interface simplificada e em linguagem acessível, eliminando barreiras técnicas na interpretação de resultados de saúde.
+---
 
-## 5. Integrantes do Grupo
-* Gustavo Lima Silva (`gustavo.lima.silva222@gmail.com`)
+## 2. ⚡ Proposta de Solução Tecnológica
+* **Abordagem:** Pipeline em Python desenhado para a extração, higienização rigorosa de anomalias glicémicas, processamento estatístico avançado (testes t emparelhados e independentes) e geração automática de relatórios executivos em PDF no padrão ABNT.
+* **Tecnologias Utilizadas:** Python 3.x, Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Seaborn, Weasyprint.
+* **Justificativa Técnica:** Garantia de alta performance no processamento de dados tabulares estruturados, assegurando reprodutibilidade absoluta e relatórios clínicos simplificados e sem jargões.
+
+---
+
+## 3. 🎨 Identidade Visual (Inspirada em Michael Kaiser - Blue Lock)
+* **Conceito Visual:** Inspirado na estética do "Prodígio Imperial" (Michael Kaiser - Bastard München), combinando a elegância do azul profundo com a vivacidade do cyan elétrico e detalhes em dourado e rosa imperial.
+* **Paleta de Cores:**
+  * 💙 **Kaiser Cyan / Aura:** `#00B4D8` (Cor complementar e de destaque)
+  * 🖤 **Bastard Navy / Base:** `#0A1128` (Fundo e tipografia principal)
+  * 👑 **Imperial Gold / Acento:** `#FFD700` (Símbolos de destaque e badges)
+  * 🌹 **Rose Tattoo / Impacto:** `#E63946` (Alertas e pontos críticos de análise)
+* **Tipografia:** Arial e Times New Roman (Alinhamento formal e académico ABNT).
+
+---
+
+## 4. 🚀 Pitch Inicial
+O **SIAG** traz a precisão do "Impacto Imperial" para a análise de dados clínicos. Ao automatizar a deteção de erros em exames de glicemia e traduzir dados estatísticos complexos em relatórios visuais e diretos em segundos, o sistema elimina a margem de erro na interpretação de tratamentos, elevando o nível (Level Up) do acompanhamento de saúde.
+
+---
+
+## 5. 👥 Equipa e Responsáveis
+* **Integrante:** Gustavo Lima Silva
+* **E-mail:** `gustavo.lima.silva222@gmail.com`
+* **GitHub:** [@gustavolimasilva222-tech](https://github.com/gustavolimasilva222-tech)
