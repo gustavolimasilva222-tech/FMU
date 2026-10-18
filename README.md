@@ -1,42 +1,47 @@
 # 👑 Imperial Health Analytics - Predictive & Public Health Dashboard
 
 > **Iniciativa:** FMU Tech Inovação · 1ª Edição 2026.2 (ODS 3 - Saúde e Bem-Estar)  
-> **Autor:** Gustavo Lima Silva (`gustavo.lima.silva222@gmail.com`)
+> **Repositório:** [github.com/gustavolimasilva222-tech/FMU](https://github.com/gustavolimasilva222-tech/FMU)
 
 ---
 
-## 1. 🎯 Descrição do Problema
-- **Desafio de Saúde e Bem-Estar (ODS 3):** Dificuldade no monitoramento epidemiológico preditivo e atrasos no diagnóstico precoce de doenças crônicas, resultando em sobrecarga do sistema de saúde pública e tomadas de decisão reativas.
-- **Público e Contexto:** Gestores de saúde pública, equipes epidemiológicas e profissionais de saúde que necessitam de previsões precisas e dashboards interativos para alocação eficiente de recursos e intervenção preventiva.
-- **Bases de Dados Públicas:** Microdados abertos do DATASUS (SISTAG, SIM/SINASC e dados de vigilância epidemiológica nacional).
+## 1. 📌 Descrição do Problema, Público e Contexto
+- **Problema de Saúde e Bem-Estar (ODS 3):** Dificuldade no monitoramento epidemiológico preditivo e atrasos na identificação precoce de anomalias em indicadores de saúde pública, gerando sobrecarga hospitalar e tomadas de decisão reativas.
+- **Público e Contexto:** Gestores de saúde pública, equipes epidemiológicas e profissionais de saúde que necessitam de previsões analíticas rigorosas e dashboards dinâmicos para intervenções preventivas ágeis.
+- **Bases de Dados Públicas Utilizadas:** Microdados abertos do DATASUS (SISTAG, SIM/SINASC e bases de vigilância epidemiológica nacional).
 - **Título do Projeto:** *Imperial Health Analytics - Painel Preditivo de Indicadores Epidemiológicos*.
 
 ---
 
 ## 2. ⚡ Proposta de Solução Tecnológica
-- **Abordagem:** Pipeline de análise de dados e Machine Learning em Python para extração de dados públicos do DATASUS, modelagem preditiva de risco epidemiológico e construção de dashboards estatísticos interativos voltados à gestão em saúde.
-- **Tecnologias Utilizadas:** Python 3.x, Pandas, NumPy, Scikit-Learn, SciPy, Matplotlib, Seaborn, Streamlit / Plotly.
-- **Justificativa Técnica:** Garantia de processamento eficiente de grandes volumes de dados de saúde pública, entregando acurácia analítica, identificação de padrões de risco e relatórios estatísticos simplificados.
+- **Abordagem e Funcionamento:** Pipeline analítico em Python para extração de dados públicos, higienização rigorosa, modelagem estatística preditiva de risco epidemiológico e disponibilização de painéis de visualização interativa.
+- **Tecnologias Implementadas:** 
+  - **Linguagem:** Python 3.x
+  - **Bibliotecas / Frameworks:** Pandas, NumPy, Scikit-Learn, SciPy, Matplotlib, Seaborn
+  - **Plataforma e Versionamento:** GitHub, Google Colab
+- **Justificativa Técnica:** Escolha fundamentada na alta performance do ecossistema Python para tratamento massivo de dados tabulares de saúde, garantindo reprodutibilidade, escalabilidade e rigor estatístico.
 
 ---
 
-## 3. 🎨 Identidade Visual (Paleta: Azul, Preto e Dourado)
-- **Conceito Visual:** Paleta de cores sóbria baseada em tons de azul profundo, preto e detalhes em dourado para transmitir precisão analítica, modernidade e excelência técnica.
-- **Paleta de Cores:**
-  * 💙 **Imperial Blue:** `#00B4D8` / `#1D3557` (Cor principal de destaque e fluxo de dados)
-  * 🖤 **Obsidian Black:** `#05050A` / `#0A1128` (Fundo e estrutura base)
-  * 👑 **Gold Accent:** `#FFD700` (Insígnias, badges e métricas de alto impacto)
-  * 🤍 **Pure White:** `#FFFFFF` (Contrastes e tipografia de leitura)
-- **Tipografia:** Arial / Times New Roman (Alinhamento acadêmico e técnico ABNT).
+## 3. 🎨 Identidade Visual
+- **Logo do Projeto:** Emblema institucional integrado à identidade visual técnica do projeto (disponível no diretório `assets/images`).
+- **Paleta de Cores Definida:**
+  * 💙 **Imperial Blue:** `#00B4D8` / `#1D3557` (Cor principal para fluxos e destaque estrutural)
+  * 🖤 **Obsidian Black:** `#05050A` / `#0A1128` (Fundo e tipografia base)
+  * 👑 **Gold Accent:** `#FFD700` (Insígnias, badges e métricas de alto impacto analítico)
+  * 🤍 **Pure White:** `#FFFFFF` (Contraste e legibilidade em conformidade com normas)
+- **Tipografia Restrita:** Arial / Times New Roman (Alinhamento formal acadêmico e padrão ABNT).
 
 ---
 
-## 4. 🚀 Pitch Inicial
-O **Imperial Health Analytics** eleva a gestão epidemiológica pública ao nível *Level Up*. Ao integrar ciência de dados preditiva e dashboards de alta precisão com visualização imediata, o sistema substitui a intuição por dados concretos, capacitando gestores a prever surtos e otimizar recursos hospitalares com eficiência.
+## 4. 🚀 Pitch Inicial (Relevância e Diferencial)
+O **Imperial Health Analytics** eleva a gestão epidemiológica pública ao patamar de excelência técnica. Ao integrar Machine Learning preditivo e painéis visuais automatizados, o sistema substitui a lentidão operativa por insights em tempo real. O grande diferencial reside na capacidade de antecipar riscos populacionais com precisão cirúrgica, otimizando a alocação de recursos e salvando vidas através de decisões baseadas em dados concretos.
 
 ---
 
-## 5. 👥 Equipe e Responsáveis
-- **Integrante:** Gustavo Lima Silva
-- **E-mail:** `gustavo.lima.silva222@gmail.com`
-- **GitHub:** [@gustavolimasilva222-tech](https://github.com/gustavolimasilva222-tech)
+## 5. 👥 Integrantes do Grupo
+- **Gustavo Lima Silva** (RA: 2025203029) — *Embaixador / Ciência de Dados* (`gustavo.lima.silva222@gmail.com`)
+- **Thiago Araújo Linhares Fidelis** (RA: 2025200106) — *Ciência de Dados*
+- **Juan Luccas Gomes Razzano** (RA: 2026108904) — *Ciência de Dados*
+- **Melany Kauane Souza Inácio** (RA: 2026207101) — *Ciência de Dados*
+- **Rodrigo Viana Camilo** (RA: 2025205319) — *Ciência de Dados*
