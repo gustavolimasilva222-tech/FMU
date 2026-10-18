@@ -1,9 +1,5 @@
 # Imperial Health Analytics - Painel Preditivo de Indicadores Epidemiológicos
 
-<p align="center">
-  <img src="assets/images/logo.png" alt="Logotipo Imperial Health Analytics" width="400"/>
-</p>
-
 > **Iniciativa:** FMU Tech Inovação · 1ª Edição 2026.2 (ODS 3 - Saúde e Bem-Estar)  
 > **Repositório:** [github.com/gustavolimasilva222-tech/FMU](https://github.com/gustavolimasilva222-tech/FMU)
 
@@ -44,7 +40,7 @@ O Imperial Health Analytics eleva a gestão epidemiológica pública ao patamar 
 ---
 
 ## 5. Integrantes do Grupo
-- **Gustavo Lima Silva** (RA: 2025203029) — *Embaixador / Ciência de Dados* (`gustavo.lima.silva222@gmail.com`)
+- **Gustavo Lima Silva** (RA: 2025203029) —  Ciência de Dados* (`gustavo.lima.silva222@gmail.com`)
 - **Thiago Araújo Linhares Fidelis** (RA: 2025200106) — *Ciência de Dados*
 - **Juan Luccas Gomes Razzano** (RA: 2026108904) — *Ciência de Dados*
 - **Melany Kauane Souza Inácio** (RA: 2026207101) — *Ciência de Dados*
