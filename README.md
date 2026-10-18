@@ -1,4 +1,4 @@
-# 👑 Imperial Health Analytics - Predictive & Public Health Dashboard (Michael Kaiser Theme)
+# 👑 Imperial Health Analytics - Predictive & Public Health Dashboard
 
 > **Iniciativa:** FMU Tech Inovação · 1ª Edição 2026.2 (ODS 3 - Saúde e Bem-Estar)  
 > **Autor:** Gustavo Lima Silva (`gustavo.lima.silva222@gmail.com`)
@@ -20,19 +20,19 @@
 
 ---
 
-## 3. 🎨 Identidade Visual (Inspirada em Michael Kaiser - Blue Lock)
-- **Conceito Visual:** Inspirado no soberano do campo "Michael Kaiser" (Bastard München), utilizando uma paleta dominante de **Azul, Preto e Dourado** para representar autoridade, precisão cirúrgica e excelência analítica.
+## 3. 🎨 Identidade Visual (Paleta: Azul, Preto e Dourado)
+- **Conceito Visual:** Paleta de cores sóbria baseada em tons de azul profundo, preto e detalhes em dourado para transmitir precisão analítica, modernidade e excelência técnica.
 - **Paleta de Cores:**
-  * 💙 **Kaiser Imperial Blue:** `#00B4D8` / `#1D3557` (Cor principal de destaque e fluxo de dados)
-  * 🖤 **Bastard Obsidian Black:** `#05050A` / `#0A1128` (Fundo e estrutura base)
-  * 👑 **Imperial Gold:** `#FFD700` (Insígnias, badges e métricas de alto impacto)
+  * 💙 **Imperial Blue:** `#00B4D8` / `#1D3557` (Cor principal de destaque e fluxo de dados)
+  * 🖤 **Obsidian Black:** `#05050A` / `#0A1128` (Fundo e estrutura base)
+  * 👑 **Gold Accent:** `#FFD700` (Insígnias, badges e métricas de alto impacto)
   * 🤍 **Pure White:** `#FFFFFF` (Contrastes e tipografia de leitura)
 - **Tipografia:** Arial / Times New Roman (Alinhamento acadêmico e técnico ABNT).
 
 ---
 
 ## 4. 🚀 Pitch Inicial
-O **Imperial Health Analytics** eleva a gestão epidemiológica pública ao nível *Level Up*. Ao integrar ciência de dados preditiva e dashboards de alta precisão com visualização imediata, o sistema substitui a intuição por dados concretos, capacitando gestores a prever surtos e otimizar recursos hospitalares com eficiência imperial.
+O **Imperial Health Analytics** eleva a gestão epidemiológica pública ao nível *Level Up*. Ao integrar ciência de dados preditiva e dashboards de alta precisão com visualização imediata, o sistema substitui a intuição por dados concretos, capacitando gestores a prever surtos e otimizar recursos hospitalares com eficiência.
 
 ---
 
